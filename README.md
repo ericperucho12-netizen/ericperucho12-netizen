@@ -1,33 +1,30 @@
-# ¡Hola! Soy Perucho 👋
+# ¡Hola! Soy Eric Perucho 👋
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bienvenido%20a%20mi%20perfil&fontSize=40&animation=fadeIn)
-### 🛠️ Tecnologías y Herramientas
+Soy un desarrollador apasionado por crear experiencias web fluidas y dinámicas. Me especializo en sumergirme profundamente en el código para construir interfaces de usuario sorprendentes y creativas.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🛠 Tecnologías y Herramientas
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### 🌐 Conéctate conmigo
+### 📱 Mis Redes
+- 🌐 [Mi Portafolio](https://tudominio.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/eric-perucho-128706133)
+- 🎵 [TikTok (@hello_perucho)](https://www.tiktok.com/@hello_perucho)
+- 📸 [Instagram (@hello_perucho)](https://www.instagram.com/hello_perucho/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@tu-usuario)
-### 📊 Mis Estadísticas
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radial" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radial" width="48%" />
-  
-</p>
-### 🐍 Gráfica de Contribuciones
+### 🐍 Mis Contribuciones
 
-![Snake animation](https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/output/github-contribution-grid-snake.svg)
-<details>
-<summary><b>🚀 Proyectos Destacados (Haz clic para desplegar)</b></summary>
+Aquí puedes ver cómo la serpiente se come mis contribuciones del último año:
 
-<br>
-
-- **Proyecto 1:** Breve descripción. [Ver Repositorio](https://github.com/...)
-- **Proyecto 2:** Breve descripción. [Ver Repositorio](https://github.com/...)
-
-</details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericperucho12-netizen/ericperucho12-netizen/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ericperucho12-netizen/ericperucho12-netizen/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ericperucho12-netizen/ericperucho12-netizen/output/github-contribution-grid-snake.svg">
+</picture>
