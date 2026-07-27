@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00CED1&center=true&vCenter=true&width=600&lines=Hola!+Soy+Eric+Perucho;Desarrollador+Creativo;Amante+del+Codigo+Limpio;Especialista+en+Web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00CED1&center=true&vCenter=true&width=800&lines=Hola!+Soy+Eric+Perucho;Desarrollador+Creativo;Amante+del+Codigo+Limpio;Especialista+en+Web;Creador+de+Contenido+en+TikTok" alt="Typing SVG" />
 </div>
 
 Soy un desarrollador apasionado por crear experiencias web fluidas y dinamicas. Me especializo en sumergirme profundamente en el codigo para construir interfaces de usuario sorprendentes y creativas.
@@ -21,8 +21,8 @@ Soy un desarrollador apasionado por crear experiencias web fluidas y dinamicas. 
 ### Estadisticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ericperucho12-netizen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ericperucho12-netizen&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ericperucho12-netizen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ericperucho12-netizen&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="GitHub Streak" />
 </div>
 
 <br/>
