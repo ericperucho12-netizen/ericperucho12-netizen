@@ -29,10 +29,20 @@ Soy un desarrollador apasionado por crear experiencias web fluidas y dinamicas. 
 
 ### Mis Redes
 
-- [Mi Portafolio](https://tudominio.com)
-- [LinkedIn](https://www.linkedin.com/in/eric-perucho-128706133)
-- [TikTok (@hello_perucho)](https://www.tiktok.com/@hello_perucho)
-- [Instagram (@hello_perucho)](https://www.instagram.com/hello_perucho/)
+<div align="center">
+  <a href="https://tudominio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00CED1&labelColor=0D1117" alt="Portafolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/eric-perucho-128706133" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.tiktok.com/@hello_perucho" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://www.instagram.com/hello_perucho/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
 ---
 
