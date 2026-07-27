@@ -21,8 +21,8 @@ Soy un desarrollador apasionado por crear experiencias web fluidas y dinamicas. 
 ### Estadisticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ericperucho12-netizen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ericperucho12-netizen&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericperucho12-netizen&theme=tokyonight" alt="GitHub Profile Details" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ericperucho12-netizen&theme=tokyonight" alt="GitHub Repo Languages" width="48%" />
 </div>
 
 <br/>
