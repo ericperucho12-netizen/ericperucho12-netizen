@@ -37,7 +37,7 @@ Soy un desarrollador apasionado por crear experiencias web fluidas y dinamicas. 
 ### Mis Redes
 
 <div align="center">
-  <a href="[https://tudominio.com](https://ericperucho12-netizen.github.io/Portafolio_PERUCHO/)" target="_blank">
+  <a href="https://ericperucho12-netizen.github.io/Portafolio_PERUCHO/" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00CED1&labelColor=0D1117" alt="Portafolio" />
   </a>
   <a href="https://www.linkedin.com/in/eric-perucho-128706133" target="_blank">
